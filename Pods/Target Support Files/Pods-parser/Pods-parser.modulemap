@@ -1,0 +1,6 @@
+framework module Pods_parser {
+  umbrella header "Pods-parser-umbrella.h"
+
+  export *
+  module * { export * }
+}

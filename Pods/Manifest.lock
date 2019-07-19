@@ -1,0 +1,18 @@
+PODS:
+  - Alamofire (4.4.0)
+  - HTMLReader (2.0.3)
+  - Kanna (2.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - HTMLReader (~> 2.0)
+  - Kanna (~> 2.1.0)
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  HTMLReader: 282f41e641eda8938cfcf8c7b7151f70955aee33
+  Kanna: 9b4b086c218703f2b94f5b21a466217dd2f9332e
+
+PODFILE CHECKSUM: 26c8b5823e2fd8f7f92ab20152150037a39782af
+
+COCOAPODS: 1.2.0
